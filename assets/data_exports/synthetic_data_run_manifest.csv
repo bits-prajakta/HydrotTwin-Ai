@@ -1,0 +1,19 @@
+run_id,scenario,policy,seed,record_count
+1,Normal Operation,Baseline,117,145
+2,Normal Operation,Risk-aware,134,145
+3,Normal Operation,Water-use optimization,151,145
+4,High Thermal Load,Baseline,168,145
+5,High Thermal Load,Risk-aware,185,145
+6,High Thermal Load,Water-use optimization,202,145
+7,Poor Water Quality,Baseline,219,145
+8,Poor Water Quality,Risk-aware,236,145
+9,Poor Water Quality,Water-use optimization,253,145
+10,Restricted Makeup Inflow,Baseline,270,145
+11,Restricted Makeup Inflow,Risk-aware,287,145
+12,Restricted Makeup Inflow,Water-use optimization,304,145
+13,Restricted Blowdown Discharge,Baseline,321,145
+14,Restricted Blowdown Discharge,Risk-aware,338,145
+15,Restricted Blowdown Discharge,Water-use optimization,355,145
+16,Combined Multiple Stress,Baseline,372,145
+17,Combined Multiple Stress,Risk-aware,389,145
+18,Combined Multiple Stress,Water-use optimization,406,145
